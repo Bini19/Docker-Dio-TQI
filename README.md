@@ -1,15 +1,15 @@
 # Docker Dio TQI
 
-Mentoria Docker - Microserviços
+## Mentoria Docker - Microserviços
 
-Requisitos
+## Requisitos
 
 - Java 11+
 - IDE de sua preferência
 - Docker
 - Gradle 7+
 
-Buildar e executar container docker.
+## Buildar e executar container docker.
 
 Na raiz do projeto executar os seguintes comandos abaixo:
 
@@ -18,5 +18,6 @@ Na raiz do projeto executar os seguintes comandos abaixo:
 - docker build -t tqi-dio-app:1.0.0 .
 - docker run -it -p 8080:8080 tqi-dio-app:1.0.0
 
-Estudante:
+## Estudante:
+
 Guilherme Bini 👋🏽
